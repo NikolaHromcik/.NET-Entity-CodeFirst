@@ -1,0 +1,1 @@
+Set your connectionString to match your connection to server, and DB you want to use.

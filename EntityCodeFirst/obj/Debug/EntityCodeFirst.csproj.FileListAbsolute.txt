@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\bin\Debug\EntityCodeFirst.exe.config
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\bin\Debug\EntityCodeFirst.exe
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\bin\Debug\EntityCodeFirst.pdb
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.Form1.resources
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.Properties.Resources.resources
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.CopyComplete
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.exe
+C:\Users\DELL\Desktop\Kolokvium c#\Entity\SolEntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.pdb

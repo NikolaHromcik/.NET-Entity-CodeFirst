@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8bd1e253-b4e1-460c-986b-48c5a7edd01f": {
+      "ProjectGuid": "8bd1e253-b4e1-460c-986b-48c5a7edd01f",
+      "DisplayName": "EntityCodeFirst",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
